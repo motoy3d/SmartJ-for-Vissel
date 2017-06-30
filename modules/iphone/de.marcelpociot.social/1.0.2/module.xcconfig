@@ -7,7 +7,6 @@
 // http://developer.apple.com/mac/library/documentation/DeveloperTools/Conceptual/XcodeBuildSystem/400-Build_Configurations/build_configs.html
 // 
 OTHER_LDFLAGS=$(inherited) -weak_framework Social -weak_framework Accounts
-OTHER_LDFLAGS=$(inherited) -weak_framework Social -weak_framework Accounts
 
 //
 // How to add a Framework (example)
